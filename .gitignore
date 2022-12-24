@@ -1,0 +1,4 @@
+.idea
+catboost_info
+__pycache__
+plot/*_images
